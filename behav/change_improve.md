@@ -4,7 +4,7 @@
 
 ## Definition:
 
-Understand how your role fits with and supports organisational objectives. Recognise the wider Civil Service priorities and ensure work is in the national interest.
+Seek out opportunities to create effective change and suggest innovative ideas for improvement. Review ways of working, including seeking and providing feedback
 
 ## Strength Mapping 
 

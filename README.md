@@ -6,6 +6,12 @@ I got fed up of having to cross reference multiple documents when I want to know
 
 Each behaviour has its definition, strength relations (with definitions) and examples for levels three (HEO/SEO) and four (Grade 7 / 6), 
 
+## How to Use 
+
+The easiest way to use this documentation is to view it through the github pages which can be found at the following URL - https://jgwinnett.github.io/FS-EPR-CHEATSHEET/. 
+
+You are, of course, free to clone/fork this repo for use on a local machine, if desired. 
+
 ## Behaviours:
 
 * [Changing and improving](behav/change_improve.md)

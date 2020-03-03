@@ -18,6 +18,30 @@ Each behaviour has its definition, strength relations (with definitions) and exa
 * [Seeing the big picture](behav/see_big_picture.md)
 * [Working together](behav/work_together.md)
 
+## Leadership Statement
+
+### Inspiring 
+* [Confident](leadership/confident.md )
+* [Enabler](leadership/enabler.md )
+* [Visionary](leadership/visionary.md )
+* [Motivator ](leadership/motivator.md)
+
+### Confident
+
+* [Authentic](leadership/authentic.md)
+* [Confident](leadership/confident.md)
+* [Team Player](leadership/team_player.md)
+* [Team Leader ](leadership/team_leader.md)
+
+### Empowering 
+
+* [Enabler](leadership/enabler.md)
+* [Inclusive](leadership/inclusive.md)
+* [Mediator](leadership/mediator.md)
+* [Resilient](leadership/resilient.md)
+
+
+
 Behaviour Definitions are sourced from [gov.uk - CS Behaviours 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/717275/CS_Behaviours_2018.pdf)
 
 Strengths and strength definitions are sourced from [CS Strengths 2018](https://drive.google.com/file/d/1q7wAG8Z5k6iYgNt-KkitRul2XOQYaTvd/view)

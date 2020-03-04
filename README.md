@@ -27,9 +27,9 @@ You are, of course, free to clone/fork this repo for use on a local machine, if 
 ## Leadership Statement
 
 ### Inspiring 
-* [Confident](leadership/confident.md )
-* [Enabler](leadership/enabler.md )
-* [Visionary](leadership/visionary.md )
+* [Confident](leadership/confident.md)
+* [Enabler](leadership/enabler.md)
+* [Visionary](leadership/visionary.md)
 * [Motivator ](leadership/motivator.md)
 
 ### Confident

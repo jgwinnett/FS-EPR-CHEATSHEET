@@ -6,5 +6,5 @@ You are confident to lead a team and can effectively manage team dynamics to dri
 
 ## Most Relevant Behaviours
 
-* [Leadership](behav/leadership.md)
+* [Leadership](../behav/leadership.md)
 

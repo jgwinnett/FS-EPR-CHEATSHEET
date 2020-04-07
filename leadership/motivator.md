@@ -7,5 +7,5 @@ You are highly driven and inspire others to move things along and make things ha
 
 ## Most Relevant Behaviours
 
-* [Leadership](behav/leadership.md)
+* [Leadership](../behav/leadership.md)
 

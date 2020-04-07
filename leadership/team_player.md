@@ -7,5 +7,5 @@ You work well as part of a team and strive to ensure the team pulls together and
 
 ## Most Relevant Behaviours
 
-* [Working together](behav/work_together.md)
+* [Working together](../behav/work_together.md)
 

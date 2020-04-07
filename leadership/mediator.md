@@ -6,6 +6,6 @@ You provide stability and cohesion within teams, finding common ground and purpo
 
 ## Most Relevant Behaviours
 
-* [Working together](behav/work_together.md)
+* [Working together](../behav/work_together.md)
 
 

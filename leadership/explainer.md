@@ -6,7 +6,7 @@ You communicate thoughts and ideas, verbally or in writing. You simplify complex
 
 ## Most Relevant Behaviours
 
-* [Communicating and influencing](behav/comm_influencing.md)
-* [Developing self and others](behav/devel_self_others.md)
+* [Communicating and influencing](../behav/comm_influencing.md)
+* [Developing self and others](../behav/devel_self_others.md)
 
 

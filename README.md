@@ -31,7 +31,7 @@ Each behaviour has its definition, strength relations (with definitions) and exa
 * [Authentic](leadership/authentic.md)
 * [Confident](leadership/confident.md)
 * [Team Player](leadership/team_player.md)
-* [Team Leader ](leadership/team_leader.md)
+* [Team Leader](leadership/team_leader.md)
 
 ### Empowering 
 

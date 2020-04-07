@@ -6,5 +6,5 @@ You are self-aware and true to yourself in all situations, even when under press
 
 ## Most Relevant Behaviours
 
-* [Communicating and influencing](behav/comm_influencing.md)
+* [Communicating and influencing](../behav/comm_influencing.md)
 

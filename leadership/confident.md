@@ -6,5 +6,5 @@ You take charge of situations, people and decisions. You communicate confidently
 
 ## Most Relevant Behaviours
 
-* [Leadership](behav/leadership.md)
+* [Leadership](../behav/leadership.md)
 

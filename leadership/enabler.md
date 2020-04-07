@@ -6,4 +6,4 @@ You see the potential in everybody and encourage them to learn, progress and dev
 
 ## Most Relevant Behaviours
 
-* [Developing self and others](behav/devel_self_others.md)
+* [Developing self and others](../behav/devel_self_others.md)

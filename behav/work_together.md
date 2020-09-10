@@ -12,7 +12,7 @@ Form effective partnerships and relationships with people both internally and ex
 * _Emotionally Intelligent_ - You draw insight from your own emotions and those of others to demonstrate empathy. 
 * _Relationship Builder_ - You quickly establish mutual respect and trust, building long lasting relationships with others.
 * _Inclusive_ - You recognise everyone as an individual, accepting people for who they are and treating everyone fairly. You actively encourage and provide opportunities for others to share ideas and contributions.
-* _Team player_
+* _Team player_ - You work well as part of a team and strive to ensure the team pulls together and is effective.
 * _Negotiator_ - You facillitate consructive discussions and enjoy getting all parties to reach an agreement
 * _Mediator_ - You provide stability and cohesion within teams, finding common ground and purpos. You enjoy collaborating with others to drive forward a shared goal.
 
